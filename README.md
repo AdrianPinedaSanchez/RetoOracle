@@ -30,6 +30,8 @@ El objetivo de esta aplicación es proporcionar a los usuarios una herramienta f
 
 ---
 
+
+
 ## 🚀 **Cómo Ejecutar la Aplicación**
 
 ### 1. Clonar el Repositorio
